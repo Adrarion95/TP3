@@ -1,4 +1,4 @@
-installation local : dpkg – rpm
+installation distante : apt - yum
 En train de lister…
 accountsservice/bionic-updates,bionic-security,now 0.6.45-1ubuntu1.3 amd64  [installé, automatique]
 acl/bionic,now 2.2.52-3build1 amd64  [installé, automatique]
